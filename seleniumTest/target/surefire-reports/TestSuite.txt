@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 27, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 497.661 s <<< FAILURE! - in TestSuite
-TC_4_2(G3SnowboardShopTest.STC_G03_Automation_Testing)  Time elapsed: 5.437 s  <<< FAILURE!
-java.lang.AssertionError: expected:<https://www.zalando.se/kvinna/?q=C> but was:<https://www.zalando.se/kvinna-home/>
-	at G3SnowboardShopTest.STC_G03_Automation_Testing.TC_4_2(STC_G03_Automation_Testing.java:382)
-
