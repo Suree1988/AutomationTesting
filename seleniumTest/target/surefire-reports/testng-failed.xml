@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite1]">
+  <test thread-count="5" verbose="0" name="Test1(failed)">
+    <classes>
+      <class name="G3SnowboardShopTest.STC_G03_Automation_Testing">
+        <methods>
+          <include name="endReport"/>
+          <include name="setup"/>
+          <include name="TC_4_2"/>
+          <include name="getResult"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- G3SnowboardShopTest.STC_G03_Automation_Testing -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

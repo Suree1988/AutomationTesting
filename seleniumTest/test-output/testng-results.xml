@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48698" started-at="2019-05-26T13:16:05Z" finished-at="2019-05-26T13:16:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48698" started-at="2019-05-26T13:16:05Z" finished-at="2019-05-26T13:16:53Z">
+      <class name="G3SnowboardShopTest.STC_G03_Automation_Testing">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7]" name="startReport" is-config="true" duration-ms="169" started-at="2019-05-26T13:16:05Z" finished-at="2019-05-26T13:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7]" name="setup" is-config="true" duration-ms="1213" started-at="2019-05-26T13:16:05Z" finished-at="2019-05-26T13:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_5_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7]" name="TC_5_1" duration-ms="46854" started-at="2019-05-26T13:16:06Z" finished-at="2019-05-26T13:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5_1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7]" name="getResult" is-config="true" duration-ms="109" started-at="2019-05-26T13:16:53Z" finished-at="2019-05-26T13:16:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_5_1 status=SUCCESS method=STC_G03_Automation_Testing.TC_5_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@53b32d7]" name="endReport" is-config="true" duration-ms="337" started-at="2019-05-26T13:16:53Z" finished-at="2019-05-26T13:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- G3SnowboardShopTest.STC_G03_Automation_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
